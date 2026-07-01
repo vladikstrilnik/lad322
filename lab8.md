@@ -1,4 +1,5 @@
 # Лабораторна робота №8
+Основи роботи з HTTP
 
 ![Фото1](https://github.com/vladikstrilnik/lad322/blob/04a5daec813bd488ebb1ca91355e4deaf421108f/lab8/photo_25_2026-07-01_13-54-12.jpg)
 
