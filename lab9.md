@@ -1,4 +1,5 @@
 # Лабораторна робота №9
+Основи роботи з HTTP API
 
 ![Фото1](https://github.com/vladikstrilnik/lad322/blob/aa285ff2687b40be04ebc2a9c579c5e368770cf0/lab9/photo_34_2026-07-01_13-54-12.jpg)
 
